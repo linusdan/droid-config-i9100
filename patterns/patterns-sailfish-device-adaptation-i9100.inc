@@ -6,6 +6,7 @@ Summary: Jolla HW Adaptation i9100
 Requires: droid-hal-i9100
 Requires: droid-hal-i9100-img-boot
 Requires: droid-hal-i9100-kernel-modules
+Requires: droid-hal-i9100-detritus
 Requires: droid-config-i9100-sailfish
 Requires: droid-config-i9100-pulseaudio-settings
 Requires: droid-config-i9100-policy-settings
