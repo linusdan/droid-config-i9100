@@ -1,0 +1,6 @@
+Description: Pattern with packages for i9100 configurations
+Name: jolla-configuration-i9100
+Requires:
+- patterns-sailfish-device-configuration-i9100
+
+Summary: Jolla Configuration i9100
